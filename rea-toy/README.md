@@ -25,6 +25,7 @@ Create an application that can read in commands of the following form:
     LEFT
     RIGHT
     REPORT
+    EXIT
     MANUAL
 
 - PLACE will put the toy robot on the table in position X,Y and facing NORTH,
